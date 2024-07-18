@@ -34,13 +34,13 @@
 
 ## Использование
 
-1. **Запустите скрипт с указанием ссылки на Google Drive:**
+**Запустите скрипт с указанием ссылки на Google Drive:**
 
-   ```bash
-   python main.py "https://drive.google.com/uc?export=download&id=1IGENwFzLm8bBEboISadYSNEdxbnjz1fH"
-   ```
+```bash
+python main.py "https://drive.google.com/uc?export=download&id=1IGENwFzLm8bBEboISadYSNEdxbnjz1fH"
+```
 
-   **Примечание:** Убедитесь, что ссылка правильная и указывает на существующий и общедоступный файл из Google Drive.
+**Примечание:** Убедитесь, что ссылка правильная и указывает на существующий и общедоступный файл из Google Drive.
 
 ## Обзор кода
 
